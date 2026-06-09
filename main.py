@@ -705,7 +705,7 @@ body::after{
   <source src="https://b.top4top.io/m_3779fnnpd1.m4a" type="audio/mp4">
 </audio>
 <div class="card">
-  <img class="profile-avatar" src="https://a.top4top.io/p_3787ch2wl1.jpg" alt="Avatar" onerror="this.style.display='none'">
+  <img class="profile-avatar" src="https://g.top4top.io/s_3781e6bx47.jpg" alt="Avatar" onerror="this.style.display='none'">
   <div class="brand-wrap">
   <div class="brand">
     <h1><b>ZIAD C_PANAL VPS free</b><span class="accent">LLC</span></h1>
